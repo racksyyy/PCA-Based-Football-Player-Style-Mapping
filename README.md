@@ -62,15 +62,6 @@ To identify relationships between football players based on their performance at
 ### Similar Player Finder
 ![Top 5 Similar Players](images/top5_similar.png)
 
-Example Output:
-| Player | Position | Overall | Distance |
-|:--|:--|:--|:--|
-| E. Haaland | ST | 88 | 0.024 |
-| T. Werner | ST | 85 | 0.032 |
-| M. Salah | RW | 90 | 0.036 |
-| R. Sterling | LW | 87 | 0.039 |
-| Neymar Jr | LW | 91 | 0.041 |
-
 ---
 
 ## 🧩 Interpretation of Principal Components
