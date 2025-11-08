@@ -83,9 +83,9 @@ Example Output:
 ---
 
 ## 🚀 Technologies Used
-- Python 🐍  
+- Python 
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`  
-- Tool: Google Colab / Jupyter Notebook
+- Tool: Google Colab 
 
 ---
 
@@ -96,10 +96,3 @@ Example Output:
 - Dimensionality reduction helps reveal structure in complex football data.
 
 ---
-
-## 💬 Example Use Case
-> Given a player name (e.g., *K. Mbappé*), the system can find the top 5 most similar players in terms of play style using their PCA coordinates.
-
----
-
-## 🧾 Project Structure
