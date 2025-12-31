@@ -2,7 +2,7 @@
 
 ### 🧠 Overview
 This project applies **Principal Component Analysis (PCA)** to **FIFA 21 player data** to visualize and compare footballers based on their attributes.  
-By reducing multiple skill attributes (such as pace, shooting, passing, dribbling, defending, and physicality) into two principal components,  
+By reducing multiple skill attributes (such as pace, shooting, passing, dribbling, defending, and physicality) into 2 principal components,  
 we can **map player styles**, **understand performance patterns**, and **find similar players**.
 
 ---
