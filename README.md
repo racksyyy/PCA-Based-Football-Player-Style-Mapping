@@ -29,7 +29,7 @@ To identify relationships between football players based on their performance at
 1. **Data Cleaning:**  
    - Loaded the FIFA 21 dataset (Excel format)  
    - Selected the top 300 players based on overall rating  
-   - Extracted six key performance attributes  
+   - Extracted 6 key performance attributes  
 
 2. **Preprocessing:**  
    - Standardized features using `StandardScaler`  
