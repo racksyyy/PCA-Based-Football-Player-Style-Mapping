@@ -81,7 +81,7 @@ To identify relationships between football players based on their performance at
 ---
 
 ## 📈 Key Insights
-- PCA effectively visualizes high-dimensional player attributes in 2D.  
+- PCA effectively visualizes high dimensional player attributes in 2D.  
 - Clear separation between attacking and defensive play styles.  
 - Similarity search helps identify players with comparable playstyle metrics.  
 - Dimensionality reduction helps reveal structure in complex football data.
